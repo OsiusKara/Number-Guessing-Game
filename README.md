@@ -15,3 +15,8 @@ This JavaScript number guessing game project's objective is to code a game where
 - functions
 - conditionals
 - loops
+
+## Screenshots
+
+![FAQ Cards](screenshot1.png)
+![FAQ Cards](screenshot2.png)
